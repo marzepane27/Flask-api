@@ -1,0 +1,5 @@
+Flask
+flask-smorest
+flask-sqlalchemy
+marshmallow
+marshmallow-sqlalchemy
